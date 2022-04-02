@@ -2,7 +2,7 @@
 #### Web Developer
  
 
-Hi there, I am a coming Web Developer. Currently, I'm learning the JavaScript language. 
+I am a coming Web Developer. Currently, I'm learning the JavaScript language. 
 
 Skills:  HTML / CSS/ JS (Learning)
 
